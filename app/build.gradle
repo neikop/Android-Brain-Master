@@ -48,11 +48,11 @@ dependencies {
     implementation 'com.github.markushi:circlebutton:1.1'
     implementation 'de.hdodenhof:circleimageview:2.1.0'
     implementation 'com.akexorcist:RoundCornerProgressBar:2.0.3'
-    implementation 'com.jakewharton:butterknife:8.8.1'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     implementation 'org.greenrobot:eventbus:3.0.0'
     implementation 'com.sromku:simple-storage:1.2.0'
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.3'
     implementation 'com.github.blackfizz:eazegraph:1.2.5l@aar'
     implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 }
